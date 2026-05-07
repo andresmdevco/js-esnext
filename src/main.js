@@ -1,5 +1,5 @@
 import './style.css'
-import '../01-arrays/array-structured-clone.js'
+import '../01-arrays/array-with.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
